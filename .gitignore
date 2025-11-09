@@ -1,0 +1,5 @@
+packages/
+.vs/
+.idea/
+Bot/bin/
+Bot/obj/
