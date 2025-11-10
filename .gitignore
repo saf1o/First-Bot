@@ -3,3 +3,5 @@ packages/
 .idea/
 Bot/bin/
 Bot/obj/
+Bot1/obj/
+Bot1/bin/
